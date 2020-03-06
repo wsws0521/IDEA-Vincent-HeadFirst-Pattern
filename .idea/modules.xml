@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-策略模式-SimuDuck/01-Strategy-SimuDuck.iml" filepath="$PROJECT_DIR$/01-策略模式-SimuDuck/01-Strategy-SimuDuck.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-策略模式-SimuDuck/01-策略模式-SimuDuck.iml" filepath="$PROJECT_DIR$/01-策略模式-SimuDuck/01-策略模式-SimuDuck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-观察者-WeatherObserver/02-观察者-WeatherObserver.iml" filepath="$PROJECT_DIR$/02-观察者-WeatherObserver/02-观察者-WeatherObserver.iml" />
     </modules>
   </component>
 </project>
