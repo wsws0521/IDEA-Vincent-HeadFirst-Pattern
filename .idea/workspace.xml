@@ -26,7 +26,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-状态机-WrapStatus/src/cn/vincent/test/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11-代理-Agent/src/cn/vincent/test/RegisterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,17 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="IDEA-Vincent-HeadFirst-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="10-状态机-WrapStatus" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -95,11 +104,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\11-代理-Agent" />
+      <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\10-状态机-WrapStatus" />
       <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\09-迭代组合-IteratorComposite" />
       <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\08-模板方法-TemplateMethod" />
       <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\07-适配器外观-AdapterFacade" />
-      <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\06-命令-CommandMode" />
-      <recent name="D:\Program Files\JetBrains\IdeaProjects\IDEA-Vincent-HeadFirst-Pattern\05-单件-Singleton" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,12 +257,12 @@
       <option name="presentableId" value="Default" />
       <updated>1583491135398</updated>
       <workItem from="1583491137100" duration="1159000" />
-      <workItem from="1583492339902" duration="3168000" />
+      <workItem from="1583492339902" duration="3415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4327000" />
+    <option name="totallyTimeSpent" value="4574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -410,6 +419,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-状态机-WrapStatus/src/cn/vincent/test/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-代理-Agent/src/cn/vincent/test/RegisterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
