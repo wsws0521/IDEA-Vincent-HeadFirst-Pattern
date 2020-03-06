@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/07-适配器外观-AdapterFacade/07-适配器外观-AdapterFacade.iml" filepath="$PROJECT_DIR$/07-适配器外观-AdapterFacade/07-适配器外观-AdapterFacade.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-模板方法-TemplateMethod/08-模板方法-TemplateMethod.iml" filepath="$PROJECT_DIR$/08-模板方法-TemplateMethod/08-模板方法-TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-迭代组合-IteratorComposite/09-迭代组合-IteratorComposite.iml" filepath="$PROJECT_DIR$/09-迭代组合-IteratorComposite/09-迭代组合-IteratorComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-状态机-WrapStatus/10-状态机-WrapStatus.iml" filepath="$PROJECT_DIR$/10-状态机-WrapStatus/10-状态机-WrapStatus.iml" />
     </modules>
   </component>
 </project>
