@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/04-02抽象工厂-PizzaAbstractFactory/04-02抽象工厂-PizzaAbstractFactory.iml" filepath="$PROJECT_DIR$/04-02抽象工厂-PizzaAbstractFactory/04-02抽象工厂-PizzaAbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-单件-Singleton/05-单件-Singleton.iml" filepath="$PROJECT_DIR$/05-单件-Singleton/05-单件-Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-命令-CommandMode/06-命令-CommandMode.iml" filepath="$PROJECT_DIR$/06-命令-CommandMode/06-命令-CommandMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-适配器外观-AdapterFacade/07-适配器外观-AdapterFacade.iml" filepath="$PROJECT_DIR$/07-适配器外观-AdapterFacade/07-适配器外观-AdapterFacade.iml" />
     </modules>
   </component>
 </project>
