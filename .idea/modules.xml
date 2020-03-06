@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/04-01简单工厂-PizzaFactory/04-01简单工厂-PizzaFactory.iml" filepath="$PROJECT_DIR$/04-01简单工厂-PizzaFactory/04-01简单工厂-PizzaFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-02抽象工厂-PizzaAbstractFactory/04-02抽象工厂-PizzaAbstractFactory.iml" filepath="$PROJECT_DIR$/04-02抽象工厂-PizzaAbstractFactory/04-02抽象工厂-PizzaAbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-单件-Singleton/05-单件-Singleton.iml" filepath="$PROJECT_DIR$/05-单件-Singleton/05-单件-Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-命令-CommandMode/06-命令-CommandMode.iml" filepath="$PROJECT_DIR$/06-命令-CommandMode/06-命令-CommandMode.iml" />
     </modules>
   </component>
 </project>

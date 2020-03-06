@@ -139,7 +139,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/05-单件-Singleton" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/06-命令-CommandMode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -167,10 +167,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Order">
-    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.vincent.test.MiniDuckSimulator" />
-      <module name="01-策略模式-SimuDuck" />
+  <component name="RunManager" selected="Application.RemoteControlTest">
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.vincent.test.Order" />
+      <module name="04-02抽象工厂-PizzaAbstractFactory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.vincent.test.*" />
@@ -181,9 +181,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.vincent.test.Order" />
-      <module name="04-02抽象工厂-PizzaAbstractFactory" />
+    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.vincent.test.RemoteControlTest" />
+      <module name="06-命令-CommandMode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.vincent.test.*" />
@@ -282,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.Order" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.StarbuzzCoffee" />
         <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.MiniDuckSimulator" />
       </list>
     </recent_temporary>
   </component>
