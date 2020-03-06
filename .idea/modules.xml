@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-单件-Singleton/05-单件-Singleton.iml" filepath="$PROJECT_DIR$/05-单件-Singleton/05-单件-Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-命令-CommandMode/06-命令-CommandMode.iml" filepath="$PROJECT_DIR$/06-命令-CommandMode/06-命令-CommandMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-适配器外观-AdapterFacade/07-适配器外观-AdapterFacade.iml" filepath="$PROJECT_DIR$/07-适配器外观-AdapterFacade/07-适配器外观-AdapterFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-模板方法-TemplateMethod/08-模板方法-TemplateMethod.iml" filepath="$PROJECT_DIR$/08-模板方法-TemplateMethod/08-模板方法-TemplateMethod.iml" />
     </modules>
   </component>
 </project>
