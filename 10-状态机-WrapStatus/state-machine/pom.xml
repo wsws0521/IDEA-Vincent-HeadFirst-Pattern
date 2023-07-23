@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>2.3.12.RELEASE</version>
+    <relativePath/>
+  </parent>
+
+  <groupId>cn.vincent</groupId>
+  <artifactId>state-machine</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>state-machine</name>
+
+  <modules>
+    <module>api</module>
+    <module>core</module>
+  </modules>
+
+  <distributionManagement>
+    <site>
+      <id>site</id>
+      <name>project website</name>
+      <url>scp://local.company.com/websites/project.company.com/</url>
+    </site>
+  </distributionManagement>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>11</java.version>
+    <statemachine.api.version>1.0.0-SNAPSHOT</statemachine.api.version>
+    <statemachine.core.version>1.0.0-SNAPSHOT</statemachine.core.version>
+  </properties>
+
+  <dependencyManagement>
+  </dependencyManagement>
+
+  <build>
+    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+      <plugins>
+      </plugins>
+    </pluginManagement>
+  </build>
+</project>
